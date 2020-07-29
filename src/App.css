@@ -1,0 +1,21 @@
+body { 
+  font-family: 'Playfair Display', serif;
+}
+
+.jumbo { 
+  height: 75vh;
+  padding-top: 60px;
+}
+
+.jumbo-text { 
+  background-color: rgba(0, 0, 0, .7);
+  width: auto;
+  padding: 1rem;
+  color: white;
+  width: fit-content;
+  margin-left: -15px;
+}
+
+.jumbo-text p { 
+  font-size: larger;
+} 
