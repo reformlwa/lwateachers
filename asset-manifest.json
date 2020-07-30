@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lwateachers/static/css/main.38c5874a.chunk.css",
+    "main.js": "/lwateachers/static/js/main.42f4230d.chunk.js",
+    "main.js.map": "/lwateachers/static/js/main.42f4230d.chunk.js.map",
+    "runtime-main.js": "/lwateachers/static/js/runtime-main.2625ddff.js",
+    "runtime-main.js.map": "/lwateachers/static/js/runtime-main.2625ddff.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/lwateachers/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.909d5b7c.chunk.js": "/lwateachers/static/js/2.909d5b7c.chunk.js",
+    "static/js/2.909d5b7c.chunk.js.map": "/lwateachers/static/js/2.909d5b7c.chunk.js.map",
+    "index.html": "/lwateachers/index.html",
+    "precache-manifest.e1105670be434ba89a95990a0f8661a0.js": "/lwateachers/precache-manifest.e1105670be434ba89a95990a0f8661a0.js",
+    "service-worker.js": "/lwateachers/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/lwateachers/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.38c5874a.chunk.css.map": "/lwateachers/static/css/main.38c5874a.chunk.css.map",
+    "static/js/2.909d5b7c.chunk.js.LICENSE.txt": "/lwateachers/static/js/2.909d5b7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2625ddff.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.909d5b7c.chunk.js",
+    "static/css/main.38c5874a.chunk.css",
+    "static/js/main.42f4230d.chunk.js"
+  ]
+}
