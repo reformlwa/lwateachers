@@ -22,7 +22,7 @@ function App() {
           Data on LWA Faculty
         </h1>
         <p>
-          On 07/30/2020, a source close to LWA faculty provided the information below on the staffing situation at the school. This situation is constantly shifting, and efforts will be made to keep this table updated. You should confirm any information below with your child's favorite teachers before making any final decisions on your child's enrollment. In no way should this data be interpreted as advice or a recommendation.
+          On 07/30/2020, a source close to the LWA faculty provided the information below on the school's current staffing. This situation changes rapidly, and efforts will be made to keep this table updated. Regardless, parents should directly confirm this information with teachers before making any binding decisions. In no way should this data be interpreted as advice or a recommendation. This is a meager attempt at leveling an otherwise asymmetric field of information. 
         </p>
         <p>
           These are uncertain times for many. If there's a teacher below that you or your child cares about, send them a message and let them know what an impact they've made.
